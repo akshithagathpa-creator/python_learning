@@ -1,0 +1,32 @@
+python basics
+
+Variables:
+A container for a value
+strings:
+Values inside a variable and it can be numbers or letters 
+integers:
+Whole numbers and it doesn't require quotes because it would be string again
+f- string:
+Its a format string which you use at print() adding f string will tell the computer that it should be printed along with the format which will be written ahead example: print(f"your name is {name}")
+Float:
+decimal numbers basically 
+Boolean: 
+it's either true or false 
+and it should definitely start with capital letter True and False Boolean literally has these two values true or false
+Typecasting:
+the process of converting one data type to the other like from str to int and int to str and int to float and float to int and str to bool
+it will also help knowing what data type it the entered text is 
+Input:
+A function that prompts user to enter the data and returns the entered data as a string
+Math functions:
+if you take any variable of certain value in integer or float and you need a round of that number we use round function while typing what to print similarly we also have another function which is math.floor which would also do the same
+and to round the number to it's nearest integer we use math.ceil function 
+to find an absolute value we use the function 'abs' it will tell us how far is the actual integer from 0
+for power we use 'pow' function
+for square root function we use 'math.sqrt' function
+to find out the largest number between any variable we use 'max' function
+to find out the smallest number between any variable we use 'min' function
+String slicing:
+creating substring by extracting elements from other strings
+it has two type indexing where they use [] these brackets and slicing () where they use these brackets
+this have 3 indexes start stop step [start:stop:step] and in slice we use ',' instead of : 
